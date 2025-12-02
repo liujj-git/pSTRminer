@@ -195,7 +195,7 @@ Rscript -e "install.packages(c('tidyr', 'vcfR', 'data.table'), repos='https://cl
 - **Python 2 Requirement**: The `filter_vcf.py` script requires Python 2.7
 - **HipSTR Dependency**: This pipeline processes HipSTR output but doesn't include HipSTR itself
 - **Reference Compatibility**: Ensure consistency between reference genome used for alignment and configuration generation
-- **Large Datasets**: May require significant memory for large sample sizes (>1000 samples)
+- **Large Datasets**: May require significant memory for large sample sizes
 
 ## Citation and Attribution
 

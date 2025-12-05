@@ -1,7 +1,7 @@
 # STR Analysis Pipeline for Forensic Genetics
 
 ## Overview
-This repository provides a complete, automated pipeline for STR (Short Tandem Repeat) analysis in forensic genetics applications. The pipeline integrates configuration generation, genotype filtering, and forensic parameter calculation into a streamlined workflow that processes HipSTR output through to comprehensive forensic reports.
+This repository provides a complete, automated pipeline for STR (Short Tandem Repeat) analysis in forensic genetics applications. The pipeline integrates STR mining, variant calling, and polymorphism evaluation into a streamlined workflow that processes HipSTR output through to comprehensive forensic reports.
 
 ## Workflow Summary
 ```

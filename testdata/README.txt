@@ -2,7 +2,6 @@ pSTRminer test dataset
 ======================
 
 Generated : 2026-07-16 13:58:52
-Host      : mu02
 
 Contents
 --------
